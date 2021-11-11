@@ -1,5 +1,5 @@
 # StartUp
-website built using Bootstrap 5, HTML, CSSand JavaScript.
+website built using Bootstrap 5, HTML, CSS and JavaScript.
 
 ![](https://github.com/Tahani19/StartUp/blob/main/StartUp/StartUp%20UI/1.png?raw=true)
 ![](https://github.com/Tahani19/StartUp/blob/main/StartUp/StartUp%20UI/2.png?raw=true)
